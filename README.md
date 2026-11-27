@@ -6,7 +6,7 @@ Personal/business expense API with categories, monthly summaries and date filter
 1. Install Node.js 20+ and MySQL 8+.
 2. Create a database:
    ```sql
-   CREATE DATABASE 04_expense_tracker_api;
+   CREATE DATABASE expense_tracker_api;
    ```
 3. Import `schema.sql` into that database.
 4. Copy `.env.example` to `.env` and update your MySQL password.
