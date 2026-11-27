@@ -1,4 +1,4 @@
-# 04 Expense Tracker Api
+#  Expense Tracker Api
 
 Personal/business expense API with categories, monthly summaries and date filtering.
 
